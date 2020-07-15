@@ -1,8 +1,8 @@
-### Hi there 👋
+
 [![ZachPfeifer's github stats](https://github-readme-stats.vercel.app/api?username=zachpfeifer&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/zachpfeifer/github-readme-stats)
 <!--
 **ZachPfeifer/ZachPfeifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
